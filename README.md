@@ -15,4 +15,4 @@ Database:
 Configure MySQL to store user details and CRUD data.
 CRUD Operations:
 
-Allow users to create, read, update, and delete records once logged in.
+Allow users to create, read, update, and delete records once logged in...
